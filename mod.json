@@ -1,0 +1,20 @@
+{
+    "geode": "6.0.0-beta.2",
+    "gd": {
+        "win": "2.2091",
+        "android": "2.2091",
+        "mac": "2.2091",
+        "ios": "2.2091"
+    },
+
+    "version": "v1.0.0",
+    "id": "undefined0.disabled-inputs-indicator",
+    "name": "Disabled Inputs Indicator",
+    "developer": "undefined0",
+    "description": "",
+    "tags": [],
+
+    "links": {
+        "source": "https://github.com/undefined06855/example-mod"
+    }
+}
